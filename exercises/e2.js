@@ -12,7 +12,7 @@
 
 // Your function code starts here...
 
-function reactArea(sideA, sideB) {
+function rectArea(sideA, sideB) {
   return sideA * sideB
 }
 
@@ -23,9 +23,9 @@ function reactArea(sideA, sideB) {
 
 // Your code goes here:
 
-var room1 = reactArea(4, 6)
-var room2 = reactArea(13, 3)
-var room3 = reactArea(4, 8)
+var room1 = rectArea(4, 6)
+var room2 = rectArea(13, 3)
+var room3 = rectArea(4, 8)
 
 /**
  * =============================================================
